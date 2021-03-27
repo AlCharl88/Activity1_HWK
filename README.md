@@ -14,12 +14,14 @@ Perform  HTML and CSS refactoring starting with codes provided by the Bootcamp i
 
 #### Usage
 
-![screenshot](assets/css/images/digital-marketing-meeting.jpg)
-![screenshot](assets/css/images/search-engone-optimization.jpg)
-![screenshot](assets/css/images/online-reputation-management.jpg)
-![screenshot](assets/css/images/social-media-marketing.jpg)
+![screenshot](assets/images/digital-marketing-meeting.jpg)
+![screenshot](assets/images/search-engone-optimization.jpg)
+![screenshot](assets/images/online-reputation-management.jpg)
+![screenshot](assets/images/social-media-marketing.jpg)
+
+##### Link
+https://github.com/AlCharl88/Activity1_HWK/tree/master
 
 ##### Credit
 Alain Tagne
 https://github.com/AlCharl88
- 
