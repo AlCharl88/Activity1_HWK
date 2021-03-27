@@ -20,7 +20,7 @@ Perform  HTML and CSS refactoring starting with codes provided by the Bootcamp i
 ![screenshot](assets/images/social-media-marketing.jpg)
 
 ##### Link
-https://github.com/AlCharl88/Activity1_HWK/tree/master
+https://alcharl88.github.io/Activity1_HWK/
 
 ##### Credit
 Alain Tagne
